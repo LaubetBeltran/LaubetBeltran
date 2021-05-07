@@ -1,4 +1,4 @@
-### Hola, soy Laura :3 ###
+<div align="center">### Hola, soy Laura :3 ###</dv>
 ~~~
 Front End Developer || Vet  || Molecular Biology
 ~~~
@@ -6,7 +6,9 @@ Front End Developer || Vet  || Molecular Biology
 
 
 ---
+<div>
 <img height="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
+ </div>
 
 ---
 
