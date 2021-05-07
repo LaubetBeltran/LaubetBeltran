@@ -1,5 +1,5 @@
-<div align="center"><h2> Hola, soy Laura :3 </h2></div>
-<div align="center"><h4>Front End Developer || Vet  || Molecular Biology </h4></div>
+<div align="center"><h2> ¡Hola, soy Laura! </h2></div>
+<div align="center"><h4>Front End Developer 💻  ||  Vet  🐾  ||  Molecular Biology 🦠️ </h4></div>
 
 ---
 <div align="center" font-size="10px"> <p>Front end developer y casi veterinaria.
@@ -7,7 +7,7 @@ Aprendiz de por vida, entusiasta de los retos mentales y apasionada de la natura
 El código llegó a mi vida y le dio un giro enorme a mi perfil profesional. Descubrí que es un área con grandes oportunidades para transformar al mundo.</p>
 </div>
 
-<div align="center"><img height=175 src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"></div>
+<div align="center"><img height=225 src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"></div>
 
 
 ---
