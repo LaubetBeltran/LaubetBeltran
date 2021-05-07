@@ -1,6 +1,5 @@
-<div align="center"><h3> Hola, soy Laura :3 </h3></div>
-
-<div align="center"><h5>Front End Developer || Vet  || Molecular Biology </h5></div>
+<div align="center"><h2> Hola, soy Laura :3 </h2></div>
+<div align="center"><h4>Front End Developer || Vet  || Molecular Biology </h4></div>
 
 ---
 <div align="center" font-size="10px"> <p>Front end developer y casi veterinaria.
