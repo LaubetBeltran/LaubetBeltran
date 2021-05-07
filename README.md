@@ -14,8 +14,10 @@ LaubetBeltran/LaubetBeltran is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=buefy" alt="table" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=solarized-light" alt="table" />
 
 ---
-![A](https://media.giphy.com/media/VbmrpEh2XZecyLm7jk/giphy.gif)
+<a href="https://www.linkedin.com/in/lauraelibetbp/">
+<img height="50" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif">
+ </a>
 ---
