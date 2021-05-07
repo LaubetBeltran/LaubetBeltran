@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 ---
 cccc
 ---
-[!gif2](https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif)
+![gif2](https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif)
