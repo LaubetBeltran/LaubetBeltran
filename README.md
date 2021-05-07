@@ -17,7 +17,7 @@ El código llegó a mi vida y le dio un giro enorme a mi perfil profesional. Des
 
 ---
 
-<div align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=default" alt="table" /></div>
+<div align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=highcontrast" alt="table" /></div>
 
 ---
 <div align="center">
