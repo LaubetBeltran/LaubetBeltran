@@ -3,7 +3,9 @@
 Front End Developer || Vet  || Molecular Biology
 ~~~
 ![gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-
+![](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+![](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+![](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
 
 <!---
 LaubetBeltran/LaubetBeltran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
