@@ -1,4 +1,4 @@
-<div align="center">### Hola, soy Laura :3 ###</dv>
+<div align="center"><h1> Hola, soy Laura :3 </h1></div>
 ~~~
 Front End Developer || Vet  || Molecular Biology
 ~~~
