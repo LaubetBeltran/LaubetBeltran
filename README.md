@@ -10,6 +10,8 @@
 - 📫 How to reach me ...
 ~~~
 
+![A](https://media.giphy.com/media/VbmrpEh2XZecyLm7jk/giphy.gif)
+
 <!---
 LaubetBeltran/LaubetBeltran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
