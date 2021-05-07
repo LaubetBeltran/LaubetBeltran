@@ -1,26 +1,29 @@
-<div align="center"><h1> Hola, soy Laura :3 </h1></div>
-~~~
-Front End Developer || Vet  || Molecular Biology
-~~~
-![gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+<div align="center"><h3> Hola, soy Laura :3 </h3></div>
+
+<div align="center"><h5>Front End Developer || Vet  || Molecular Biology </h5></div>
+
+---
+<div align="center" font-size="10px"> <p>Front end developer y casi veterinaria.
+Aprendiz de por vida, entusiasta de los retos mentales y apasionada de la naturaleza.
+El código llegó a mi vida y le dio un giro enorme a mi perfil profesional. Descubrí que es un área con grandes oportunidades para transformar al mundo.</p>
+</div>
+
+<div align="center"><img height=175 src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"></div>
 
 
 ---
-<div>
+<div align="center">
 <img height="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" /> <img height="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
  </div>
 
 ---
 
-<!---
-LaubetBeltran/LaubetBeltran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=default" alt="table" />
+<div align="center"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=LaubetBeltran&show_icons=truee&theme=default" alt="table" /></div>
 
 ---
+<div align="center">
 <a href="https://www.linkedin.com/in/lauraelibetbp/">
 <img height="50" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif">
  </a>
----
+</div>
+
