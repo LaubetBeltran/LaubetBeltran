@@ -1,16 +1,9 @@
 ### Hola, soy Laura :3 ###
+~~~
+Front End Developer || Vet  || Molecular Biology
+~~~
 ![gif](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
 
-
-~~~
-- 👋 Hi, I’m @LaubetBeltran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-~~~
-
-![A](https://media.giphy.com/media/VbmrpEh2XZecyLm7jk/giphy.gif)
 
 <!---
 LaubetBeltran/LaubetBeltran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +14,5 @@ You can click the Preview link to take a look at your changes.
 [![Laubet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaubetBeltran)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-cccc
+![A](https://media.giphy.com/media/VbmrpEh2XZecyLm7jk/giphy.gif)
 ---
-![gif2](https://media.giphy.com/media/LQoL4nHVLzhw2YXMU6/giphy.gif)
